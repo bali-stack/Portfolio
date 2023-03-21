@@ -1,0 +1,99 @@
+
+/* regular */
+@font-face {
+	font-family: 'Fira';
+	font-weight: normal;
+	font-style: normal;
+	src: url('../fonts/FiraSans-Book.woff2') format('woff2'), 
+		 url('../fonts/FiraSans-Book.woff') format('woff');
+}
+
+/* italics */
+@font-face {
+	font-family: 'Fira';
+	font-weight: normal;
+	font-style: italic;
+	src: url('../fonts/FiraSans-Book-Italic.woff2') format('woff2'), 
+		 url('../fonts/FiraSans-Book-Italic.woff') format('woff');
+}
+
+/* Loading the 'bold' weight */
+@font-face {
+	font-family: 'Fira';
+	font-weight: bold;
+	font-style: normal;
+	src: url('../fonts/FiraSans-Medium.woff2') format('woff2'), 
+		 url('../fonts/FiraSans-Medium.woff') format('woff');
+}
+
+/* Loading the italic style for the 'bold' weight */
+@font-face {
+	font-family: 'Fira';
+	font-weight: bold;
+	font-style: italic;
+	src: url('../fonts/FiraSans-Medium-Italic.woff2') format('woff2'), 
+		 url('../fonts/FiraSans-Medium-Italic.woff') format('woff');
+} 
+
+
+/* --------------------------------------------------------------------- */
+
+/* Regualr */
+@font-face {
+    font-family: 'NeueHaasGroteskDisp Pro';
+    src: url('NHaasGroteskDSPro-55Rg.woff2') format('woff2'),
+        url('NHaasGroteskDSPro-55Rg.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Bold */
+@font-face {
+    font-family: 'NeueHaasGroteskDisp Pro';
+    src: url('NHaasGroteskDSPro-75Bd.woff2') format('woff2'),
+        url('NHaasGroteskDSPro-75Bd.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Light */
+@font-face {
+    font-family: 'NeueHaasGroteskDisp Pro Lt';
+    src: url('NHaasGroteskDSPro-45Lt.woff2') format('woff2'),
+        url('NHaasGroteskDSPro-45Lt.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Thin */
+@font-face {
+    font-family: 'NeueHaasGroteskDisp Pro';
+    src: url('NHaasGroteskDSPro-25Th.woff2') format('woff2'),
+        url('NHaasGroteskDSPro-25Th.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Medium */
+@font-face {
+    font-family: 'NeueHaasGroteskDisp Pro Md';
+    src: url('NHaasGroteskDSPro-65Md.woff2') format('woff2'),
+        url('NHaasGroteskDSPro-65Md.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Light Italics */
+@font-face {
+    font-family: 'NeueHaasGroteskDisp Pro Lt';
+    src: url('NHaasGroteskDSPro-46LtIt.woff2') format('woff2'),
+        url('NHaasGroteskDSPro-46LtIt.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
